@@ -74,6 +74,6 @@ make
 ```
 This will generate the static library file libft.a.
 
-Author
+## Author
 
 Developed by Elena as part of the 42 School curriculum.
